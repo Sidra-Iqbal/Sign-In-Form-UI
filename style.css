@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(https://foyr.com/learn/wp-content/uploads/2019/01/best-interior-design-tips.jpg);
+
+    background-size: cover;
+    
+
+    
+}
+.container{
+    width: 400px;
+    margin: 100px auto 0px auto;
+    color: white;
+
+}
+ h2{
+    text-align: center;
+    padding: 20px;
+    font-size: 35px;
+    margin-top: 20px
+}
+.div{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    font-size: 18px;
+    border: 2px solid black;
+}
+ form{
+    margin:40px;
+ }
+label{
+    font-size: 20px;
+}
+input{
+    width: 300px;
+    padding: 5px;
+    background-color: white;
+}
+#submit{
+width: 300px;
+}
+button{
+width: 312px;
+padding:7px ;
+font-size: 20px;
+border-radius: 5%;
+background-color: rgb(255, 38, 0);
+}
